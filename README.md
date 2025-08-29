@@ -1,8 +1,6 @@
 # hello-world
 ## About Me
-**"Hello, my name is Kamlesh Pradhan. I have recently completed my BTech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. During my studies, I developed strong technical skills in Python, SQL, Data Visualization, and Machine Learning, which have helped me build a solid foundation in analyzing data and deriving meaningful insights. I am particularly interested in pursuing a career as a Data Analyst, where I can apply these skills to support data-driven decision-making and contribute to organizational growth.
-
-In addition to my academic and technical background, I am a proactive learner who enjoys exploring new technologies and keeping myself updated with industry trends. Outside of work, I like playing cricket, which has taught me teamwork and strategy, and listening to music, which helps me relax and stay creative. Overall, I aim to combine my technical expertise, analytical mindset, and passion for learning to grow as a successful Data Analyst."**
+"Hi, I’m Kamlesh Pradhan. I have completed my BTech in Computer Science and Engineering with a specialization in AI & ML. I have skills in Python, SQL, Power BI, Data Visualization, and Machine Learning. Currently, I am interning at Ramana Soft as a Data Science Intern with a focus on Generative AI, where I am gaining practical exposure to real-world applications of data and AI. Earlier, I also worked on projects like Stock Price Prediction using LSTM and ARIMA, Vehicle Detection using OpenCV, and Cat vs Dog Classification using CNN. I am now looking forward to building my career as a Data Analyst, where I can apply my technical and analytical skills to drive data-driven decision-making. Apart from my professional interests, I enjoy playing cricket and listening to music, which help me stay active and refreshed."
 
 Thank You.....
 
